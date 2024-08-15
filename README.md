@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-
+<!--
 **SiddharthGan/SiddharthGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Hi, I am Siddharth Ganesan, 16, based in Edinburgh, UK in my final year of high school.
 Big science nerd trying to make it in tech.
 I can do Python, HTML, SQL at a basic level on VScode.
