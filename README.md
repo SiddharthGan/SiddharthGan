@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **SiddharthGan/SiddharthGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi, I am Siddharth Ganesan, 16, based in Edinburgh, UK in my final year of high school.
@@ -15,4 +15,4 @@ Things to know about me:
 - 📫 Hit me up: Snapchat/Instagram - zidisbored    Discord - Ziddharth
 - 🏋️ Bench press 65kg, Bicep curl 18kg, Lat raise 10kg
 - 🏴 Indian heritage (Tamil)
--->
+
